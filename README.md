@@ -1,16 +1,17 @@
-## Hi there 👋
+# Adán Martínez
 
-<!--
-**adanmtzmerino/adanmtzmerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Junior enfocado en testing manual, automatización UI y validación de datos.
 
-Here are some ideas to get you started:
+## Skills
+- Manual Testing
+- Bug Reporting
+- Playwright
+- SQL
+- API Testing
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- SauceDemo Manual Testing
+- Playwright UI Automation
+- SQL for QA
+- API Testing with Postman
